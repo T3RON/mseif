@@ -1,0 +1,5 @@
+3. Configure your API keys and MetaTrader 5 credentials
+
+## Usage
+
+Run the bot: 

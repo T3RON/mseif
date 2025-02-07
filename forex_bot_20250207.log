@@ -1,0 +1,17 @@
+2025-02-07 09:56:38,221 - INFO - Bot started running in 1-minute timeframe...
+2025-02-07 09:56:40,497 - WARNING - No valid signal type found
+2025-02-07 09:56:47,574 - WARNING - No valid signal type found
+2025-02-07 09:56:54,216 - WARNING - No valid signal type found
+2025-02-07 09:57:00,812 - WARNING - No valid signal type found
+2025-02-07 09:57:07,471 - WARNING - Invalid expiry value: 0
+2025-02-07 09:57:07,472 - WARNING - No analysis text found
+2025-02-07 09:57:07,473 - INFO - Successfully parsed response: WAIT, 0%, 1min
+2025-02-07 09:57:14,136 - WARNING - No valid signal type found
+2025-02-07 09:57:20,636 - WARNING - No valid signal type found
+2025-02-07 09:58:32,458 - INFO - Starting Gemini Forex Bot...
+2025-02-07 09:58:32,459 - INFO - Outside trading hours, waiting...
+2025-02-07 09:59:11,251 - INFO - Bot stopped by user
+2025-02-07 10:00:07,266 - INFO - Starting Gemini Forex Bot...
+2025-02-07 10:02:03,467 - INFO - Bot stopped by user
+2025-02-07 10:02:18,578 - INFO - Starting Gemini Forex Bot...
+2025-02-07 10:03:30,167 - INFO - Bot stopped by user
